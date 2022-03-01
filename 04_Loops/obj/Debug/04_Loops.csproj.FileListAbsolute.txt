@@ -1,0 +1,15 @@
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\bin\Debug\04_Loops.dll
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\obj\Debug\04_Loops.csproj.CopyComplete
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\obj\Debug\04_Loops.dll
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\04_Loops\obj\Debug\04_Loops.pdb
