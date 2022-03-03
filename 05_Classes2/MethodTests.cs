@@ -57,7 +57,6 @@ namespace _05_Classes2
             Person blankPerson = new Person();
 
             Assert.AreEqual("Victor R", person.FullName);
-            Assert.AreEqual("Jacob", person.FirstName);
             person.SayHello();
 
             Person luke = new Person("Luke", "Skywalker", new DateTime(1970, 02, 02));
