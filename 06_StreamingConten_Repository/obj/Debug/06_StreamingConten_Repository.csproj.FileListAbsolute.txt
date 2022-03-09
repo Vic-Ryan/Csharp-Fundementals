@@ -1,0 +1,6 @@
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\06_StreamingConten_Repository\bin\Debug\06_StreamingConten_Repository.dll
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\06_StreamingConten_Repository\bin\Debug\06_StreamingConten_Repository.pdb
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\06_StreamingConten_Repository\obj\Debug\06_StreamingConten_Repository.csproj.AssemblyReference.cache
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\06_StreamingConten_Repository\obj\Debug\06_StreamingConten_Repository.csproj.CoreCompileInputs.cache
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\06_StreamingConten_Repository\obj\Debug\06_StreamingConten_Repository.dll
+C:\Users\vryan\OneDrive\Desktop\ElevenFiftyProjects\135SD\SD135CSharpNotes\06_StreamingConten_Repository\obj\Debug\06_StreamingConten_Repository.pdb
