@@ -12,7 +12,7 @@ namespace _08_Interfaces.Fruits
         {
             get { return "Grape"; }
         }
-        public bool IsPeeled { get; } = true;
+        public bool IsPeeled { get; } = false;
 
         public string Peel()
         {

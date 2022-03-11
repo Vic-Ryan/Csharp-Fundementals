@@ -29,14 +29,14 @@ namespace _08_Interfaces
                 new Grape()
             };
 
-            foreach(var fruit in fruitSalad)
+            foreach (var fruit in fruitSalad)
             {
                 Console.WriteLine(fruit.Name);
                 Console.WriteLine(fruit.Peel());
 
                 Assert.IsInstanceOfType(fruit, typeof(IFruit));
 
-                if(fruit is Orange)
+                if (fruit is Orange)
                 {
                     Console.WriteLine(((Orange)fruit).Squeeze());
                 }
@@ -44,7 +44,7 @@ namespace _08_Interfaces
         }
 
         private string GetFruitName(IFruit fruit)
-        {
+        { // This is a method to give me a string of the name back
             return $"This fruit is called {fruit.Name}";
         }
 
@@ -57,8 +57,51 @@ namespace _08_Interfaces
             Console.WriteLine(output);
             Assert.IsTrue(output.Contains("This fruit is called Grape"));
         }
-        
 
-        
+        [TestMethod]
+        public void PatternMatching()
+        {
+            var fruitSalad = new List<IFruit>
+            {
+                new Orange(true),
+                new Orange(),
+                new Grape(),
+                new Orange(),
+                new Banana(true),
+                new Grape(),
+            };
+
+            Console.WriteLine("Is the orange peeled?");
+            foreach (var fruit in fruitSalad)
+            {
+                if (fruit is Orange orange) //Patternmatching
+                {
+                    if (orange.IsPeeled)
+                    {
+                        Console.WriteLine("It's a peeled orange");
+                        orange.Squeeze();
+                    }
+                    else
+                        Console.WriteLine("Is an orange");
+
+                }
+                else if (fruit.GetType() == typeof(Grape))
+                {
+                    Console.WriteLine("Is a grape");
+
+                    var grape = (Grape)fruit;
+                    Console.WriteLine(grape.Peel());
+                }
+                else if (fruit.IsPeeled)
+                {
+                    Console.WriteLine("It's a peeled banana");
+                }
+                else
+                {
+                    Console.WriteLine("It's a banana");
+                }
+            }
+        }
+
     }
 }
